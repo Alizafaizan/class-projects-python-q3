@@ -82,7 +82,7 @@ st.markdown("""
     
     .stTabs [aria-selected="true"] {
         background-color: #DBEAFE;
-        color: #1E40AF;
+        color: #0F1D50;
     }
     
     /* Custom styling for strength indicators */
